@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+header{
+    width: 100%;
+    background: url(../img/bg.jpeg)no-repeat;
+    background-size: cover;
+    float: left;
+    padding: 50px 75px;
+}
+.container{
+    width: 1140px;
+    float: left;
+    margin: 0 auto;
+}
+.cn-one{
+    width: 40%;
+    float: left;
+    color: white;
+}
+.cn-one h2{
+    font-size: 35px;
+}
+.cn-one p{
+    margin-top: 20px;
+}
+.cn-one ul{
+    margin-top: 40px;
+    list-style: none;
+}
+.cn-one ul li{
+    
+    margin-top: 20px;
+    font-size: 20px;
+}
+.cn-one ul li i{
+    border: 2px solid white;
+    padding: 1px;
+    width: 11px;
+    height: 11px;
+    line-height: 12px;
+    border-radius: 50px;
+    text-align: center;
+    margin-right: 9px;
+}
+.one-btn{
+    padding: 15px 25px;
+    border-radius: 25px;
+    margin-top: 40px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    background-color: #1899ff;
+}
+.reg{
+    width: 40%;
+    float: left;
+    padding: 30px 40px 58px;
+    margin: 10px 74px;
+    color: white;
+    background-color: #00e2ffb3;
+    border-radius: 30px 30px;
+}
+.reg h2{
+    font-size: 33px;
+    text-align: center;
+    margin: 5px 0px 15px;
+}
+.reg p{
+    font-size: 15px;
+    text-align: center;   
+}
+.reg ul{
+    list-style: none;
+}
+.reg ul li{
+    margin: 20px 0px 15px;
+    
+}
+.reg input{
+    width: 100%;
+    font-size: 17px;
+    padding: 7px 5px;
+}
+.two-btn{
+    font-size: 22px;
+    color: white;
+    background-color: #001690;
+    border: none;
+    margin: 0 auto;
+    display: block;
+    padding: 15px 55px
+}
+.two-btn:hover{
+    cursor: pointer;
+    box-shadow: 2px 4px 8px;
+
+}
+
